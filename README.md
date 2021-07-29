@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### I'm a Software Engineer based in Delhi, India.
-
-- 🏢 I'm currently working with **Orange Business Services.**
+- 🏢 I'm a **Software Engineer** based in New Delhi, India.
 - 🌱 Learning more about and studying: **Distributed Systems, Machine Learning, Open Source, Microservices**.
 - 🌍 I support and volunteer with: **Women Who Code Delhi**.
 - 💬 Ping me about: **open source**, **algorithms**, **data structures**.
