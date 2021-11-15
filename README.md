@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 - 🐦 Tweeting about open source and tech events on <a href="https://twitter.com/varshika153/">Twitter</a>
 
 ---
+
+[![Varshika's github stats](https://github-readme-stats.vercel.app/api?username=varshika15&show_icons=true)](https://github.com/varshika15/github-readme-stats)
+
